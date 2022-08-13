@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Para-Fetch/static/css/main.53979455.css",
+    "main.js": "/Para-Fetch/static/js/main.999cdc3a.js",
+    "static/js/787.0914eb95.chunk.js": "/Para-Fetch/static/js/787.0914eb95.chunk.js",
+    "index.html": "/Para-Fetch/index.html",
+    "main.53979455.css.map": "/Para-Fetch/static/css/main.53979455.css.map",
+    "main.999cdc3a.js.map": "/Para-Fetch/static/js/main.999cdc3a.js.map",
+    "787.0914eb95.chunk.js.map": "/Para-Fetch/static/js/787.0914eb95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53979455.css",
+    "static/js/main.999cdc3a.js"
+  ]
+}
